@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TransliterationSystem'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F6E88BA74964771BB52839B518BD35A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FD648C689D545BE94185E47A2A10B1E }}
